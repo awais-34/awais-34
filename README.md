@@ -1,5 +1,5 @@
 ::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,30:243B55,100:1B2735&height=220&section=header&text=Awais%20Salamat&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Automation%20Architect&descAlignY=56&descSize=16&animation=fadeIn" />`{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,30:243B55,100:1B2735&height=220&section=header&text=Awais%20Salamat&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Automation%20Architect&descAlignY=56&descSize=16&animation=fadeIn" />{=html}
 
 `<br/>`{=html}
 
