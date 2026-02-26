@@ -1,7 +1,7 @@
-::: {align="center"}
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,30:243B55,100:1B2735&height=220&section=header&text=Awais%20Salamat&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Automation%20Architect&descAlignY=56&descSize=16&animation=fadeIn" />{=html}
 
-`<br/>`{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,30:243B55,100:1B2735&height=220&section=header&text=Awais%20Salamat&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Automation%20Architect&descAlignY=56&descSize=16&animation=fadeIn" />
+
+<br/>
 
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🤖+AI+Systems+Engineer;⚡+Automation+%7C+LLMs+%7C+No-Code+Workflows;📬+Lead+Gen+→+Enrichment+→+Conversion;🧠+Building+Smart+AI+Agents;🚀+Turning+Manual+Work+Into+Autonomous+Systems)](#)
