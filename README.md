@@ -1,140 +1,99 @@
-## 🧬 About Me
-
-```js
-const awaisSalamat = {
-  role       : "AI Automation Expert",
-  company    : "Freelance Consultant — Karachi, Pakistan 🇵🇰",
-
-  whatIBuild : [
-    "End-to-end n8n automation pipelines",
-    "AI voice agents for local businesses",
-    "Cold outreach systems (lead → email, 100% autonomous)",
-    "Screenshot → Cloudinary → Personalised HTML email flows",
-    "LLM-powered data enrichment & lead scoring",
-    "Multi-agent systems for complex business workflows",
-  ],
-
-  aiStack    : ["OpenAI GPT-4o", "Claude 3.5 Sonnet", "Whisper", "ElevenLabs", "Ollama"],
-  devStack   : ["Python", "FastAPI", "Node.js", "TypeScript", "Docker"],
-
-  currentlyExploring : ["AI Agents", "Agentic RAG pipelines", "Multi-step LLM chains"],
-  openTo             : ["Freelance automation builds", "SaaS collabs", "Consulting"],
-
-  philosophy : "⚡ If a human does it repeatedly — automate it.",
-};
-```
-
----
-
-## 🤖 AI & Automation Stack
-
-| Layer | Tools |
-|-------|-------|
-| 🔗 **Orchestration** | n8n · Make · Zapier · LangChain · LlamaIndex |
-| 🧠 **AI / LLM** | OpenAI GPT-4o · Claude 3.5 · Gemini · Whisper · Ollama |
-| 🗣️ **Voice AI** | ElevenLabs · VAPI · Retell AI · Twilio |
-| 📊 **Data** | PostgreSQL · Supabase · Airtable · Google Sheets |
-| 📬 **Outreach** | Instantly · Smartlead · Apollo · SMTP |
-| 🖼️ **Media / CDN** | Cloudinary · AWS S3 |
-| ⚛️ **Frontend** | Python · FastAPI · Node.js · Streamlit |
-
----
-
-## 🚀 Featured Automation — Autonomous Outreach Pipeline
-
-> 🏭 Production pipeline · Triggers daily at 9AM PKT · Processes 20 leads/run · 100% autonomous
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                    AUTOMATED OUTREACH PIPELINE                          ║
-╠═══════════╦══════════════╦═══════════════════╦══════════════════════════╣
-║  TRIGGER  ║    FILTER    ║      ENRICH       ║        DELIVER           ║
-╠═══════════╬══════════════╬═══════════════════╬══════════════════════════╣
-║ ⏰ 9AM    ║ 📊 Read      ║ 📸 Screenshot     ║ 📧 Send personalised     ║
-║ Schedule  ║    Sheet     ║    website live   ║    HTML email            ║
-╠═══════════╬══════════════╬═══════════════════╬══════════════════════════╣
-║ 🖱️ Manual ║ ✅ 4-point   ║ ☁️  Upload to     ║ 📊 Log to Sheet          ║
-║ Trigger   ║    filter    ║    Cloudinary CDN ║ ✅ Mark "Emailed"         ║
-╚═══════════╩══════════════╩═══════════════════╩══════════════════════════╝
-```
-
-**The 4-point smart filter (all must pass):**
-
-```
-✅  Mail ID   → not empty        // valid recipient exists
-✅  Website   → not empty        // has site to screenshot
-✅  Approved  → checkbox = true  // manually pre-qualified
-✅  Emailed?  → column empty     // not contacted before
-```
-
-> Result: Every morning, 20 warm, personalised emails go out — each with a live screenshot of the prospect's own website — without a single human click.
-
----
-
-## 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaissalamat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaissalamat&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=awaissalamat&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/awaissalamat/awaissalamat/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚙️ **Setup:** Add a GitHub Action in your profile repo — `.github/workflows/snake.yml` — using **Platane/snk** to auto-generate the snake animation from your contribution graph daily.
-
----
-
-## 💬 Let's automate something great.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awaissalamat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://awaissalamat.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/awaissalamat)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,30:243B55,100:1B2735&height=220&section=header&text=Awais%20Salamat&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Automation%20Architect&descAlignY=56&descSize=16&animation=fadeIn" />
 
 <br/>
 
-> *"The best engineer isn't the one who writes the most code — it's the one who removes the need for it."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🤖+AI+Systems+Engineer;⚡+Automation+%7C+LLMs+%7C+No-Code+Workflows;📬+Lead+Gen+→+Enrichment+→+Conversion;🧠+Building+Smart+AI+Agents;🚀+Turning+Manual+Work+Into+Autonomous+Systems)](#)
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=awais-salamat&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20Automation-0ea5e9?style=for-the-badge&logo=robot&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Projects-0284c7?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 🧬 About Me
+
+```typescript
+const awaisSalamat = {
+  role       : "AI Systems Engineer",
+  specialty  : "Workflow Automation & AI Integrations",
+
+  whatIBuild : [
+    "End-to-end automation pipelines",
+    "LLM-powered data enrichment systems",
+    "AI agents for customer support & sales",
+    "Cold outreach automation workflows",
+    "Internal productivity automations"
+  ],
+
+  aiStack    : ["OpenAI", "Claude", "Gemini", "Whisper"],
+  automation : ["n8n", "Make", "Zapier"],
+  backend    : ["Node.js", "Express", "MongoDB"],
+  frontend   : ["React", "Vue", "TypeScript"],
+
+  currentlyLearning : ["AI Agents", "RAG Architectures", "Vector Databases"],
+  philosophy        : "If it repeats twice — automate it."
+};
+
+🤖 AI & Automation Stack
+<div align="center">
+Layer	Tools
+🔗 Automation	
+
+🧠 AI / LLMs	
+
+📊 Data	
+
+📬 Outreach	
+
+⚛️ Frontend	
+</div>
+🚀 Featured Automation System
+╔══════════════════════════════════════════════════════════════════════╗
+║                  SMART OUTREACH AUTOMATION SYSTEM                   ║
+╠════════════╦══════════════╦══════════════════╦═══════════════════════╣
+║  TRIGGER   ║   ENRICH     ║   PERSONALISE    ║        DELIVER        ║
+╠════════════╬══════════════╬══════════════════╬═══════════════════════╣
+║ ⏰ Schedule║ 🌐 Scrape    ║ 🧠 LLM Content   ║ 📧 Send Email         ║
+║ 📥 Webhook ║ 📊 Enrich    ║ 🎯 Custom Hooks  ║ 📊 Log Results        ║
+╚════════════╩══════════════╩══════════════════╩═══════════════════════╝
+
+Smart Qualification Logic:
+
+✅ Valid Email
+✅ Website Exists
+✅ Lead Score > Threshold
+✅ Not Previously Contacted
+
+Fully automated pipeline — zero manual intervention.
+
+🛠️ Languages & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,express,mongodb,python,git,github,vscode&theme=dark&perline=8" /> </div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=awais-salamat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-salamat&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" /> </div>
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=awais-salamat&theme=algolia&no-frame=true&no-bg=true&row=1" /> </div>
+💬 Let's Build Intelligent Systems
+<div align="center">
+
+
+ 
+
+
+ 
+
+
+<br/>
+
+"Build once. Automate forever."
+
+</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,50:243B55,100:141E30&height=120&section=footer&animation=fadeIn" /> ```
