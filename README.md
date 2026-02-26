@@ -10,13 +10,12 @@ SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 
 
 <p>
-```
-`<img src="https://komarev.com/ghpvc/?username=awais-salamat&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />`{=html}
+
+<img src="https://komarev.com/ghpvc/?username=awais-salamat&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
  
-`<img src="https://img.shields.io/badge/Focus-AI%20Automation-0ea5e9?style=for-the-badge&logo=robot&logoColor=white" />`{=html}
- 
-`<img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Projects-0284c7?style=for-the-badge&logo=handshake&logoColor=white" />`{=html}
-```
+<img src="https://img.shields.io/badge/Focus-AI%20Automation-0ea5e9?style=for-the-badge&logo=robot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Projects-0284c7?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 ```
 :::
