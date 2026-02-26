@@ -3,25 +3,24 @@
 ```js
 const awaisSalamat = {
   role       : "AI Automation Expert",
-  company    : "Independent Consultant — Karachi, Pakistan 🇵🇰",
-  product    : "AI Automation Studio  →  awaissalamat.dev",
+  company    : "Freelance Consultant — Karachi, Pakistan 🇵🇰",
 
   whatIBuild : [
-    "End-to-end n8n & Make automation pipelines",
-    "AI agents for business process automation",
+    "End-to-end n8n automation pipelines",
+    "AI voice agents for local businesses",
     "Cold outreach systems (lead → email, 100% autonomous)",
-    "RAG-powered knowledge bots for internal teams",
+    "Screenshot → Cloudinary → Personalised HTML email flows",
     "LLM-powered data enrichment & lead scoring",
-    "Voice AI agents for local & enterprise businesses",
+    "Multi-agent systems for complex business workflows",
   ],
 
-  aiStack    : ["OpenAI GPT-4o", "Anthropic Claude", "Whisper", "ElevenLabs", "Ollama"],
+  aiStack    : ["OpenAI GPT-4o", "Claude 3.5 Sonnet", "Whisper", "ElevenLabs", "Ollama"],
   devStack   : ["Python", "FastAPI", "Node.js", "TypeScript", "Docker"],
 
-  currentlyExploring : ["Multi-agent systems", "Agentic RAG", "Browser automation with LLMs"],
-  openTo             : ["Freelance automation builds", "SaaS collabs", "AI consulting"],
+  currentlyExploring : ["AI Agents", "Agentic RAG pipelines", "Multi-step LLM chains"],
+  openTo             : ["Freelance automation builds", "SaaS collabs", "Consulting"],
 
-  philosophy : "⚡ If a human does it repeatedly — an AI should be doing it.",
+  philosophy : "⚡ If a human does it repeatedly — automate it.",
 };
 ```
 
@@ -33,7 +32,7 @@ const awaisSalamat = {
 |-------|-------|
 | 🔗 **Orchestration** | n8n · Make · Zapier · LangChain · LlamaIndex |
 | 🧠 **AI / LLM** | OpenAI GPT-4o · Claude 3.5 · Gemini · Whisper · Ollama |
-| 🗣️ **Voice AI** | ElevenLabs · Twilio · VAPI · Retell AI |
+| 🗣️ **Voice AI** | ElevenLabs · VAPI · Retell AI · Twilio |
 | 📊 **Data** | PostgreSQL · Supabase · Airtable · Google Sheets |
 | 📬 **Outreach** | Instantly · Smartlead · Apollo · SMTP |
 | 🖼️ **Media / CDN** | Cloudinary · AWS S3 |
@@ -41,7 +40,7 @@ const awaisSalamat = {
 
 ---
 
-## 🚀 Featured Automation — Autonomous Lead Outreach Pipeline
+## 🚀 Featured Automation — Autonomous Outreach Pipeline
 
 > 🏭 Production pipeline · Triggers daily at 9AM PKT · Processes 20 leads/run · 100% autonomous
 
@@ -52,7 +51,7 @@ const awaisSalamat = {
 ║  TRIGGER  ║    FILTER    ║      ENRICH       ║        DELIVER           ║
 ╠═══════════╬══════════════╬═══════════════════╬══════════════════════════╣
 ║ ⏰ 9AM    ║ 📊 Read      ║ 📸 Screenshot     ║ 📧 Send personalised     ║
-║ Schedule  ║    Sheet     ║    website live   ║    HTML email via SMTP   ║
+║ Schedule  ║    Sheet     ║    website live   ║    HTML email            ║
 ╠═══════════╬══════════════╬═══════════════════╬══════════════════════════╣
 ║ 🖱️ Manual ║ ✅ 4-point   ║ ☁️  Upload to     ║ 📊 Log to Sheet          ║
 ║ Trigger   ║    filter    ║    Cloudinary CDN ║ ✅ Mark "Emailed"         ║
@@ -68,40 +67,26 @@ const awaisSalamat = {
 ✅  Emailed?  → column empty     // not contacted before
 ```
 
-> Result: Every morning, 20 warm, personalised emails go out — each referencing the prospect's own business context — without a single human click.
-
----
-
-## 🤖 Featured Agent — AI Voice Agent for Local Businesses
-
-> 📞 Handles inbound calls · Books appointments · Answers FAQs · Escalates edge cases
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                         AI VOICE AGENT FLOW                             ║
-╠══════════════╦══════════════════╦═════════════════╦═════════════════════╣
-║   INBOUND    ║   UNDERSTAND     ║     DECIDE      ║      RESPOND        ║
-╠══════════════╬══════════════════╬═════════════════╬═════════════════════╣
-║ 📞 Call in   ║ 🎤 Whisper STT   ║ 🧠 GPT-4o       ║ 🗣️ ElevenLabs TTS  ║
-║   via VAPI   ║    transcribes   ║    intent parse ║    natural voice    ║
-╠══════════════╬══════════════════╬═════════════════╬═════════════════════╣
-║ 🔁 Live      ║ 📚 RAG lookup    ║ 📅 Book slot or ║ 📲 SMS confirmation ║
-║   stream     ║    business FAQ  ║    escalate     ║    via Twilio       ║
-╚══════════════╩══════════════════╩═════════════════╩═════════════════════╝
-```
+> Result: Every morning, 20 warm, personalised emails go out — each with a live screenshot of the prospect's own website — without a single human click.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-```
-Languages    →  Python · JavaScript · TypeScript · Bash · SQL
-Frameworks   →  FastAPI · LangChain · LlamaIndex · CrewAI · AutoGen
-Automation   →  n8n · Make · Zapier · custom webhook pipelines
-AI Models    →  GPT-4o · Claude 3.5 · Gemini · Whisper · Ollama · HuggingFace
-Databases    →  PostgreSQL · Supabase · MongoDB · Pinecone · Weaviate · Redis
-DevOps       →  Docker · GitHub Actions · AWS · Railway · Vercel
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
@@ -110,7 +95,7 @@ DevOps       →  Docker · GitHub Actions · AWS · Railway · Vercel
 <div align="center">
 
 ![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaissalamat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
+&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaissalamat&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -124,6 +109,18 @@ DevOps       →  Docker · GitHub Actions · AWS · Railway · Vercel
 ![Trophies](https://github-profile-trophy.vercel.app/?username=awaissalamat&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/awaissalamat/awaissalamat/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> ⚙️ **Setup:** Add a GitHub Action in your profile repo — `.github/workflows/snake.yml` — using **Platane/snk** to auto-generate the snake animation from your contribution graph daily.
 
 ---
 
@@ -141,4 +138,3 @@ DevOps       →  Docker · GitHub Actions · AWS · Railway · Vercel
 <br/>
 
 > *"The best engineer isn't the one who writes the most code — it's the one who removes the need for it."*
-
