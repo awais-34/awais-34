@@ -17,8 +17,7 @@ SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 
 <img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Projects-0284c7?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
-```
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -51,7 +50,6 @@ const awaisSalamat = {
 
 ## 🤖 AI & Automation Stack
 
-::: {align="center"}
   -------------------------------------------------------------------------------------------------------------------------------------------------------
   Layer                               Tools
   ----------------------------------- -------------------------------------------------------------------------------------------------------------------
@@ -76,7 +74,6 @@ const awaisSalamat = {
                                       ![Vue](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
                                       ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
 
 ------------------------------------------------------------------------
 
@@ -106,42 +103,34 @@ const awaisSalamat = {
 
 ## 🛠️ Languages & Tools
 
-::: {align="center"}
-`<img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,express,mongodb,python,git,github,vscode&theme=dark&perline=8" />`{=html}
-:::
+<img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,express,mongodb,python,git,github,vscode&theme=dark&perline=8" />
 
 ------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
-::: {align="center"}
-`<img src="https://github-readme-stats.vercel.app/api?username=awais-salamat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" />`{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=awais-salamat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" />
  
-`<img src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-salamat&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" />`{=html}
-:::
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-salamat&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
 
 ------------------------------------------------------------------------
 
 ## 🏆 Trophies
 
-::: {align="center"}
-`<img src="https://github-profile-trophy.vercel.app/?username=awais-salamat&theme=algolia&no-frame=true&no-bg=true&row=1" />`{=html}
-:::
+<img src="https://github-profile-trophy.vercel.app/?username=awais-salamat&theme=algolia&no-frame=true&no-bg=true&row=1" />
 
 ------------------------------------------------------------------------
 
 ## 💬 Let's Build Intelligent Systems
 
-::: {align="center"}
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
  
 [![GitHub](https://img.shields.io/badge/GitHub-awais--salamat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awais-salamat)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-`<br/>`{=html}
+<br/>
 
 *"Build once. Automate forever."*
-:::
 
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,50:243B55,100:141E30&height=120&section=footer&animation=fadeIn" />`{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2735,50:243B55,100:141E30&height=120&section=footer&animation=fadeIn" />
