@@ -109,15 +109,15 @@ const awaisSalamat = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=awais-salamat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=awais-34&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" />
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-salamat&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-34&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
 
 ------------------------------------------------------------------------
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=awais-salamat&theme=algolia&no-frame=true&no-bg=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=awais-34&theme=algolia&no-frame=true&no-bg=true&row=1" />
 
 ------------------------------------------------------------------------
 
