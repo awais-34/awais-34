@@ -6,9 +6,9 @@
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🤖+AI+Systems+Engineer;⚡+Automation+%7C+LLMs+%7C+No-Code+Workflows;📬+Lead+Gen+→+Enrichment+→+Conversion;🧠+Building+Smart+AI+Agents;🚀+Turning+Manual+Work+Into+Autonomous+Systems)](#)
 
-`<br/>`{=html}
+<br/>
 
-```{=html}
+
 <p>
 ```
 `<img src="https://komarev.com/ghpvc/?username=awais-salamat&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />`{=html}
@@ -16,7 +16,7 @@ SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 `<img src="https://img.shields.io/badge/Focus-AI%20Automation-0ea5e9?style=for-the-badge&logo=robot&logoColor=white" />`{=html}
  
 `<img src="https://img.shields.io/badge/Open%20To-Collaborations%20%26%20Projects-0284c7?style=for-the-badge&logo=handshake&logoColor=white" />`{=html}
-```{=html}
+```
 </p>
 ```
 :::
