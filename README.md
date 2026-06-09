@@ -107,20 +107,6 @@ const awaisSalamat = {
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awais-34&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-34&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800)
-
-------------------------------------------------------------------------
-
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=awais-34&theme=algolia&no-frame=true&no-bg=true&row=1&cache_seconds=1800)
-
-------------------------------------------------------------------------
-
 ## 💬 Let's Build Intelligent Systems
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
