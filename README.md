@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=awais-salamat&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=awais-34&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/Certified-n8n%20Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-AI%20Automation%20%26%20Chatbots-0ea5e9?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20To-Freelance%20%26%20Remote-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
@@ -89,7 +89,7 @@ Tailored full-stack apps, custom API integrations, dashboards, and internal tool
 **🔗 Automation & Orchestration**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
 **🧠 AI / LLMs & Agents**
@@ -97,13 +97,13 @@ Tailored full-stack apps, custom API integrations, dashboards, and internal tool
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![VAPI](https://img.shields.io/badge/VAPI-10B981?style=for-the-badge&logo=v&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI%20Voice%20AI-10B981?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **📊 CRM & Sales Tools**
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-2F65F5?style=for-the-badge&logo=ghost&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-2F65F5?style=for-the-badge&logoColor=white)
 ![Pipedrive](https://img.shields.io/badge/Pipedrive-1A1A1A?style=for-the-badge&logo=pipedrive&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
@@ -117,7 +117,7 @@ Tailored full-stack apps, custom API integrations, dashboards, and internal tool
 **📬 Outreach & Comms**
 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo.io-2E63F6?style=for-the-badge&logo=apollographql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo.io-2E63F6?style=for-the-badge&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
@@ -161,12 +161,12 @@ Tailored full-stack apps, custom API integrations, dashboards, and internal tool
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=awais-salamat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=awais-salamat&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=awais-34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=awais-34&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais-salamat&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais-34&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -174,7 +174,7 @@ Tailored full-stack apps, custom API integrations, dashboards, and internal tool
 ## 💬 Let's Build Intelligent Systems
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-awais--salamat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awais-salamat)
+[![GitHub](https://img.shields.io/badge/GitHub-awais--34-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awais-34)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
 
