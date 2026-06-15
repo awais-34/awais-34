@@ -179,10 +179,10 @@ Tailored full-stack apps, custom API integrations, dashboards, and internal tool
 
 ## 💬 Let's Build Intelligent Systems
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais1salamat@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-awais--34-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awais-34)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais1030)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.linkedin.com/in/awais1030)
 
 <br/>
 
