@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:203A43,100:2C5364&height=230&section=header&text=Awais%20Salamat&fontSize=68&fontColor=ffffff&fontAlignY=34&desc=AI%20Automation%20Engineer%20%7C%20Chatbot%20%26%20CRM%20Specialist&descAlignY=55&descSize=17&animation=fadeIn" />
+<h1 align="center">Awais Salamat</h1>
+<h3 align="center">🤖 AI Automation Engineer | 💬 Chatbot & CRM Specialist</h3>
 
 <br/>
 
@@ -6,7 +7,7 @@
 
 <br/>
 
-<p>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=awais-34&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/Certified-n8n%20Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-AI%20Automation%20%26%20Chatbots-0ea5e9?style=for-the-badge&logo=probot&logoColor=white" />
@@ -131,18 +132,23 @@ Tailored full-stack apps, custom API integrations, dashboards, and internal tool
 ---
 
 ## 🚀 Featured System — AI Lead Engine
-
-```
 ╔══════════════════════════════════════════════════════════════════════╗
+
 ║              INTELLIGENT OUTREACH & CRM AUTOMATION                    ║
+
 ╠════════════╦══════════════╦══════════════════╦═══════════════════════╣
+
 ║  TRIGGER   ║   ENRICH     ║   PERSONALISE    ║        DELIVER        ║
+
 ╠════════════╬══════════════╬══════════════════╬═══════════════════════╣
+
 ║ ⏰ Schedule║ 🌐 Scrape    ║ 🧠 LLM Content   ║ 📧 Email / SMS        ║
+
 ║ 📥 Webhook ║ 📊 Enrich    ║ 🎯 Custom Hooks  ║ 📊 Sync to CRM        ║
+
 ║ 💬 Chat    ║ ⭐ Score     ║ 🤖 AI Agent      ║ 📈 Log & Report       ║
+
 ╚════════════╩══════════════╩══════════════════╩═══════════════════════╝
-```
 
 **Smart Qualification Logic**
 
@@ -180,6 +186,4 @@ Tailored full-stack apps, custom API integrations, dashboards, and internal tool
 
 <br/>
 
-*"Build once. Automate forever."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn" />
+<p align="center"><i>"Build once. Automate forever."</i></p>
