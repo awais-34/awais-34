@@ -1,5 +1,5 @@
 <h1 align="center">Awais Salamat</h1>
-<h3 align="center">🤖 AI Automation Engineer | 💬 Chatbot & CRM Specialist</h3>
+<h3 align="center">🤖 Inbound & Outbound AI Calling Agents | 💬 Chatbot & CRM Specialist</h3>
 
 <br/>
 
